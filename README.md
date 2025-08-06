@@ -1,6 +1,6 @@
 # Simple GIF Creator 🎬
 
-A Simple Script to turn your photos into a gif with a simple command!
+A script to turn your photos into a gif with a simple command!
 
 ## What it does
 

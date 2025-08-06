@@ -213,7 +213,7 @@ python gifCreator.py photos -o memories.gif -d 1500
 
 ## Contributing
 
-Found a bug? Have an idea? 
+Found a bug? Have an idea? Hate something?
 1. Fork this repository
 2. Make your changes
 3. Submit a pull request

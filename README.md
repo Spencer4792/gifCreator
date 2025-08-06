@@ -22,7 +22,7 @@ Drop your images in a folder, run the script, and get an animated GIF. Perfect f
 
 ```bash
 git clone https://github.com/Spencer4792/gifCreator.git
-cd gifCreator.git
+cd gifCreator
 ```
 
 ### 2. Set up the Environment

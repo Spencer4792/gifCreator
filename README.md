@@ -149,7 +149,10 @@ python gifCreator.py logo_steps -o logo_reveal.gif -d 300 -l 5
 🎉 Done! Your GIF is ready to use.
 ```
 
-## Troubleshooting
+## Troubleshooting and Notes
+
+## Just a heads up
+I didn't program this using a Windows computer. I'm familiar with bash, so I believe the commands should be correct, but there could be some issues. Please let me know if there's problems like emojis not working, or anything of that nature.
 
 ### "No images found"
 - Check that your folder path is correct

@@ -1,10 +1,10 @@
 # Simple GIF Creator 🎬
 
-Turn your photos into animated GIFs with one simple command
+A Simple Script to turn your photos into a gif with a simple command!
 
 ## What it does
 
-Drop your images in a folder, run the script, and get a smooth animated GIF. Perfect for:
+Drop your images in a folder, run the script, and get an animated GIF. Perfect for:
 - Photo slideshows
 - Animation sequences  
 - Step-by-step tutorials
